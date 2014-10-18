@@ -1,0 +1,98 @@
+//.l-wm-main{
+ //   @include grid-span(12,1); 
+//}
+.l-wm-slider{
+    @include grid-span(12,1); 
+}
+.l-wm-nav{
+    @include grid-span(12,1);    
+}
+.l-wm-region--breadcrumb{
+    @include grid-span(12,1);  
+}
+.l-wm-region--destacado{
+    @include grid-span(12,1);  
+}
+
+//region central que tiene content y barras laterales
+//.l-wm--region-central{
+//   @include grid-span(12,1);  
+//}
+.l-wm--region-content{
+    @include grid-span(12,1);
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+}
+
+//lateral izquierda
+.l-wm-sidebar-left{
+     @include breakpoint($celular_small){
+    @include grid-span(12,1);
+}
+        @include breakpoint($celular){
+    @include grid-span(12,1);
+}
+        @include breakpoint($tablet){
+    @include grid-span(3,1); 
+}
+        @include breakpoint($desk_normal){
+    @include grid-span(3,1); 
+}
+        @include breakpoint($desk_wide){
+    @include grid-span(3,1); 
+}  
+}
+
+//contenidos centrales
+.l-wm-content{
+	//@include grid-span(8,1); 
+     @include breakpoint($celular_small){
+    @include grid-span(12,1);
+}
+        @include breakpoint($celular){
+    @include grid-span(12,1);
+}
+        @include breakpoint($tablet){
+    @include grid-span(6,4); 
+}
+        @include breakpoint($desk_normal){
+    @include grid-span(6,4); 
+}
+        @include breakpoint($desk_wide){
+    @include grid-span(6,4); 
+}
+}
+
+
+//barra lateral derecha
+.l-wm--region-sidebar{
+ // @include grid-span(4,9); 
+@include breakpoint($celular_small){
+    @include grid-span(12,1);
+}
+        @include breakpoint($celular){
+    @include grid-span(12,1);
+}
+        @include breakpoint($tablet){
+  @include grid-span(3,10); 
+}
+        @include breakpoint($desk_normal){
+  @include grid-span(3,10); 
+}
+        @include breakpoint($desk_wide){
+  @include grid-span(3,10);  
+}
+}
+.l-wm-sidebar-media{
+    @include grid-span(12,1); 
+}
+.l-wm-sub-lateral{
+      @include grid-span(12,1);   
+}
+.l-wm-sidebar-right_1{
+    @include grid-span(6,1); 
+}
+.l-wm-sidebar-right_2{
+    @include grid-span(6,7); 
+}

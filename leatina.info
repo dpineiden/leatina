@@ -1,0 +1,39 @@
+name = Leatina
+description = Please provide a description for your theme.
+base theme = tekulwun
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
+
+; ========================================
+; Stylesheets
+; ========================================
+stylesheets[all][] = css/leatina.normalize.css
+stylesheets[all][] = css/leatina.hacks.css
+stylesheets[all][] = css/leatina.styles.css
+stylesheets[all][] = css/leatina.no-query.css
+
+; ========================================
+; Scripts
+; ========================================
+scripts[] = js/leatina.behaviors.js
+
+; ========================================
+; Regions
+; ========================================
+regions[branding] = Marca
+regions[principal] = Barra de Usuario
+regions[banner] = Banner
+regions[navigation] = Barra de Navegación
+regions[highlighted] = Destacados
+regions[help] = Ayuda
+regions[sidebar_left] = Lateral Izquierda
+regions[sidebar_right] = Lateral Derecha
+regions[content] = Contenido
+regions[sidebar_media] = Lateral para Media
+regions[sidebar_right_1] = Lateral Derecha 1
+regions[sidebar_right_2] = Lateral Derecha 2
+regions[pre_footer_1] = Pre Footer-1
+regions[pre_footer_2] = Pre Footer-2
+regions[pre_footer_3] = Pre Footer-3
+regions[footer] = Footer
