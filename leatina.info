@@ -1,6 +1,6 @@
 name = Leatina
 description = Please provide a description for your theme.
-base theme = tekulwun
+base theme = omega
 screenshot = screenshot.png
 engine = phptemplate
 core = 7.x
