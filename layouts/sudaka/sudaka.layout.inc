@@ -1,7 +1,7 @@
-name = Wallmapu
-description = Un layout para usar como home en sitio Mapuexpress.org
+name = Sudaka
+description = Un layout para usar como home en sitio americaleatina.org
 preview = preview.png
-template = wallmapu-layout
+template = sudaka-layout
 
 regions[branding]       = Marca
 regions[principal]	= Barra de Usuario
@@ -21,6 +21,6 @@ regions[footer]         = Footer
 
 
 ; Stylesheets
-stylesheets[all][] = css/layouts/wallmapu/wallmapu.layout.css
-stylesheets[all][] = css/layouts/wallmapu/wallmapu.layout.no-query.css
-stylesheets[all][] = css/layouts/wallmapu/tekulwun-wallmapu.layout.css
+stylesheets[all][] = css/layouts/sudaka/sudaka.layout.css
+stylesheets[all][] = css/layouts/sudaka/sudaka.layout.no-query.css
+stylesheets[all][] = css/layouts/sudaka/leatina-sudaka.layout.css

@@ -6,3 +6,7 @@
 
 // Use 'border-box' for the box model.
 @import "toolkit/border-box";
+
+l-sk-header,l-sk-slider,l-sk-nav,l-sk-region--destacado,l-sk-region--breadcrumb{
+    width:80%;
+}

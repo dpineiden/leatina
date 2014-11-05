@@ -20,3 +20,13 @@
 @import "abstractions/**/*";
 @import "base/**/*";
 @import "components/**/*";
+@import "layouts/**/*";
+@import "menus/**/*"; 
+@import "hover/**/*"; 
+
+.l-sk-header,.l-sk-slider,.l-sk-nav,.l-sk-region--destacado,.l-sk-region--breadcrumb,.l-sk--region-footer{
+    width:70%;
+    margin: 0 auto;
+    margin-left: 15%;
+    margin-right: 15%;
+}

@@ -1,24 +1,24 @@
-//.l-wm-main{
+//.l-sk-main{
  //   @include grid-span(12,1); 
 //}
-.l-wm-slider{
+.l-sk-slider{
     @include grid-span(12,1); 
 }
-.l-wm-nav{
+.l-sk-nav{
     @include grid-span(12,1);    
 }
-.l-wm-region--breadcrumb{
+.l-sk-region--breadcrumb{
     @include grid-span(12,1);  
 }
-.l-wm-region--destacado{
+.l-sk-region--destacado{
     @include grid-span(12,1);  
 }
 
 //region central que tiene content y barras laterales
-//.l-wm--region-central{
+//.l-sk--region-central{
 //   @include grid-span(12,1);  
 //}
-.l-wm--region-content{
+.l-sk--region-content{
     @include grid-span(12,1);
     margin-left: 15%;
     margin-right: 15%;
@@ -26,7 +26,7 @@
 }
 
 //lateral izquierda
-.l-wm-sidebar-left{
+.l-sk-sidebar-left{
      @include breakpoint($celular_small){
     @include grid-span(12,1);
 }
@@ -45,7 +45,7 @@
 }
 
 //contenidos centrales
-.l-wm-content{
+.l-sk-content{
 	//@include grid-span(8,1); 
      @include breakpoint($celular_small){
     @include grid-span(12,1);
@@ -54,19 +54,19 @@
     @include grid-span(12,1);
 }
         @include breakpoint($tablet){
-    @include grid-span(5,4); 
+    @include grid-span(5,5); 
 }
         @include breakpoint($desk_normal){
-    @include grid-span(5,4); 
+    @include grid-span(5,5); 
 }
         @include breakpoint($desk_wide){
-    @include grid-span(5,4); 
+    @include grid-span(5,5); 
 }
 }
 
 
 //barra lateral derecha
-.l-wm--region-sidebar{
+.l-sk--region-sidebar{
  // @include grid-span(4,9); 
 @include breakpoint($celular_small){
     @include grid-span(12,1);
@@ -84,15 +84,15 @@
   @include grid-span(3,10);  
 }
 }
-.l-wm-sidebar-media{
+.l-sk-sidebar-media{
     @include grid-span(12,1); 
 }
-.l-wm-sub-lateral{
+.l-sk-sub-lateral{
       @include grid-span(12,1);   
 }
-.l-wm-sidebar-right_1{
+.l-sk-sidebar-right_1{
     @include grid-span(6,1); 
 }
-.l-wm-sidebar-right_2{
+.l-sk-sidebar-right_2{
     @include grid-span(6,7); 
 }
