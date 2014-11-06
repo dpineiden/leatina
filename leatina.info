@@ -1,5 +1,5 @@
 name = Leatina
-description = Please provide a description for your theme.
+description = Theme para america leatina con layouts sudaka
 base theme = omega
 screenshot = screenshot.png
 engine = phptemplate

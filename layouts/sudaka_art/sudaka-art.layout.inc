@@ -1,7 +1,7 @@
-name = Wallmapu Articulos
-description = Un layout para usar en la vista de articulos y contenidos en sitio Mapuexpress.org
+name = Sudaka Articulos
+description = Un layout para usar en la vista de articulos y contenidos en sitio americaleatina.org
 preview = preview.png
-template = wallmapu-articulos-layout
+template = sudaka-art-layout
 
 regions[branding]       = Marca
 regions[principal]	= Barra de Usuario
@@ -18,6 +18,6 @@ regions[footer]         = Footer
 
 
 ; Stylesheets
-stylesheets[all][] = css/layouts/wallmapu-articulos/wallmapu-articulos.layout.css
-stylesheets[all][] = css/layouts/wallmapu-articulos/wallmapu-articulos.layout.no-query.css
-stylesheets[all][] = css/layouts/wallmapu-articulos/tekulwun-wallmapu-articulos.layout.css
+stylesheets[all][] = css/layouts/sudaka-art/sudaka-art.layout.css
+stylesheets[all][] = css/layouts/sudaka-art/sudaka-art.layout.no-query.css
+stylesheets[all][] = css/layouts/sudaka-art/leatina-sudaka-art.layout.css

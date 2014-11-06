@@ -1,6 +1,6 @@
-.l-wm-art-header{
+.l-sk-art-header{
     @include grid-span(12,1);}
-.l-wm-art-branding{
+.l-sk-art-branding{
     @include breakpoint($celular_small){
     @include grid-span(12,1);
 }
@@ -18,7 +18,7 @@
 }
 
 }
-.l-wm-art-principal{
+.l-sk-art-principal{
 
     @include breakpoint($celular_small){
     @include grid-span(12,1);
