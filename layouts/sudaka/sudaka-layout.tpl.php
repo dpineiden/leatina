@@ -72,8 +72,8 @@
 
     </div>
 </div>
-
-
+  </body>
+<div class="sudaka-footer">
   <div  class="l-sk--region-footer" role="Info Footer">
     <div class="l-sk-region-prefooter">
     <div class="l-sk-prefooter1" role="Pre Footer-1">
@@ -86,5 +86,4 @@
     <div class="l-sk-footer">
     <?php print render($page['footer']); ?></div>
   </div>
-
-  </body>
+</div>

@@ -1,10 +1,14 @@
+/* As RGBa codes */
+/* Main Primary color */
+/* Main Secondary color (1) */
+/* Main Secondary color (2) */
 /* No files to import found in abstractions/**\/* */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/base\/_media\.scss}line{font-family:\000031}}
 img, media {
   max-width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka-art\/_footer\.scss}line{font-family:\000033}}
-.l-sk-art--region-footer {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka-art\/_footer\.scss}line{font-family:\000031}}
+.sudaka-art-footer {
   width: 100%;
   float: right;
   margin-left: 0;
@@ -12,6 +16,14 @@ img, media {
   clear: none; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka-art\/_footer\.scss}line{font-family:\000036}}
+.l-sk-art--region-footer {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka-art\/_footer\.scss}line{font-family:\000039}}
 .l-sk-art-region-prefooter {
   width: 100%;
   float: right;
@@ -19,7 +31,7 @@ img, media {
   margin-right: 0;
   clear: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka-art\/_footer\.scss}line{font-family:\0000310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka-art\/_footer\.scss}line{font-family:\0000313}}
 .l-sk-art-prefooter1 {
   width: 31.91489%;
   float: left;
@@ -27,7 +39,7 @@ img, media {
   margin-left: 0%;
   clear: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka-art\/_footer\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka-art\/_footer\.scss}line{font-family:\0000317}}
 .l-sk-art-prefooter2 {
   width: 31.91489%;
   float: left;
@@ -35,7 +47,7 @@ img, media {
   margin-left: 34.04255%;
   clear: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka-art\/_footer\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka-art\/_footer\.scss}line{font-family:\0000321}}
 .l-sk-art-prefooter3 {
   width: 31.91489%;
   float: right;
@@ -43,7 +55,7 @@ img, media {
   margin-right: 0;
   clear: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka-art\/_footer\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka-art\/_footer\.scss}line{font-family:\0000325}}
 .l-sk-art-footer {
   width: 100%;
   float: right;
@@ -135,6 +147,14 @@ img, media {
   clear: none; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka\/_footer\.scss}line{font-family:\000032}}
+.sudaka-footer {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka\/_footer\.scss}line{font-family:\000037}}
 .l-sk--region-footer {
   width: 100%;
   float: right;
@@ -142,7 +162,7 @@ img, media {
   margin-right: 0;
   clear: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka\/_footer\.scss}line{font-family:\000035}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka\/_footer\.scss}line{font-family:\0000310}}
 .l-sk-region-prefooter {
   width: 100%;
   float: right;
@@ -150,7 +170,7 @@ img, media {
   margin-right: 0;
   clear: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka\/_footer\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka\/_footer\.scss}line{font-family:\0000314}}
 .l-sk-prefooter1 {
   width: 31.91489%;
   float: left;
@@ -158,7 +178,7 @@ img, media {
   margin-left: 0%;
   clear: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka\/_footer\.scss}line{font-family:\0000313}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka\/_footer\.scss}line{font-family:\0000318}}
 .l-sk-prefooter2 {
   width: 31.91489%;
   float: left;
@@ -166,7 +186,7 @@ img, media {
   margin-left: 34.04255%;
   clear: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka\/_footer\.scss}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka\/_footer\.scss}line{font-family:\0000322}}
 .l-sk-prefooter3 {
   width: 31.91489%;
   float: right;
@@ -174,7 +194,7 @@ img, media {
   margin-right: 0;
   clear: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka\/_footer\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/layouts\/sudaka\/_footer\.scss}line{font-family:\0000326}}
 .l-sk-footer {
   width: 100%;
   float: right;
@@ -2997,19 +3017,37 @@ img, media {
     height: 25px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000327}}
+html {
+  background-color: #d8d7a1; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000329}}
+  html body {
+    color: #2290aa; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000331}}
+    html body a {
+      text-decoration: none;
+      color: #72391b; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000337}}
 .l-sk-header, .l-sk-slider, .l-sk-nav, .l-sk-region--destacado, .l-sk-region--breadcrumb, .l-sk--region-footer {
   width: 70%;
   margin: 0 auto;
   margin-left: 15%;
   margin-right: 15%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000344}}
 .l-sk-art-header, .l-sk-art-slider, .l-sk-art-nav, .l-sk-art-region--destacado, .l-sk-art-region--breadcrumb, .l-sk-art--region-footer {
   width: 70%;
   margin: 0 auto;
   margin-left: 15%;
   margin-right: 15%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000350}}
 #user-login-form {
   font-size: 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000354}}
+.sudaka-footer, .sudaka-art-footer {
+  background-image: url("../images/footer.svg");
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: 100% 160px; }

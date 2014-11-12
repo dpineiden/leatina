@@ -1,3 +1,8 @@
+
+.sudaka-footer{
+@include grid-span(12,1);
+}
+
 //footer
 .l-sk--region-footer{
 @include grid-span(12,1);

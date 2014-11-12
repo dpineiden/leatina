@@ -24,6 +24,16 @@
 @import "menus/**/*"; 
 @import "hover/**/*"; 
 
+html{
+    background-color: $mostaza;
+    body{
+        color:$aguamarina;//color de texto
+        a{
+            text-decoration: none;
+            color: $rojo-ladrillo-3;
+        }
+    }
+}
 .l-sk-header,.l-sk-slider,.l-sk-nav,.l-sk-region--destacado,.l-sk-region--breadcrumb,.l-sk--region-footer{
     width:70%;
     margin: 0 auto;
@@ -39,4 +49,11 @@
 }
 #user-login-form {
 font-size: 10px;
+}
+
+.sudaka-footer,.sudaka-art-footer{
+    background-image: url("../images/footer.svg");
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: 100% 160px;
 }
