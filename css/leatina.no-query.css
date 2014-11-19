@@ -3050,25 +3050,26 @@ html {
   background-image: url("../images/footer.svg");
   background-position: center bottom;
   background-repeat: no-repeat;
-  background-size: 100% 160px; }
+  background-size: 100% 160px;
+  height: 150px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000362}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000363}}
 .leatina-teaser {
   height: 340px;
   margin-bottom: 10px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000365}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000366}}
   .leatina-teaser .leatina-teaser-imagen {
     padding-bottom: 10px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000368}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000369}}
   .leatina-teaser .text-right {
     float: right;
     font-size: 0.8rem;
     width: 60%;
     text-align: justify; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000373}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000374}}
     .leatina-teaser .text-right .teaser-date {
       font-size: 9px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000378}}
   .leatina-teaser .text-left {
     float: left;
     margin-right: 2%;
