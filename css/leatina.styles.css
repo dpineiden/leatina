@@ -3435,11 +3435,11 @@ html {
     font-size: 0.8rem;
     width: 60%;
     text-align: justify; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000374}}
-    .leatina-teaser .text-right .teaser-date {
-      font-size: 9px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000378}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000375}}
   .leatina-teaser .text-left {
     float: left;
     margin-right: 2%;
     width: 38%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000379}}
+    .leatina-teaser .text-left .teaser-date {
+      font-size: 9px; }
