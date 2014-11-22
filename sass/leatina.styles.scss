@@ -63,8 +63,12 @@ html{
     top: 16rem;
     width: 100%;
     #superfish-1 {
-    margin-top: 2.5rem;
+    margin-top: 2rem;
     margin-left: 60%;
+    .sf-depth-1 {
+    padding: 4px;
+    font-weight: bold;
+    text-transform: uppercase;}
     .first{
         border-left:4px solid;
         border-color:$aguamarina-3;
@@ -75,9 +79,9 @@ html{
         border-color:$aguamarina-3;
     }
     .last{
-         border-left:4px solid;
+        border-left:4px solid;
         border-color:$aguamarina-3;
-        border-right: 2px solid;
+        border-right: 4px solid;
         border-color:$aguamarina-3;
     }
     }
