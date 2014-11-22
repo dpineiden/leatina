@@ -3219,5 +3219,8 @@ html {
     display: inline-flex; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003258}}
     .field--name-field-tags .field__items .field__item {
-      background: #3c1705;
-      border-radius: 4px; }
+      background: #E2CCB7;
+      border-radius: 4px;
+      padding-left: 5px;
+      padding-right: 5px;
+      margin-left: 4px; }
