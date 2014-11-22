@@ -3390,7 +3390,7 @@ html {
   background-color: #d98841; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000330}}
   html body {
-    color: #2290aa; }
+    color: black; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000332}}
     html body a {
       text-decoration: none;
@@ -3404,11 +3404,11 @@ html {
   margin-right: 15%; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000345}}
-.l-sk-slider {
+.l-sk-slider, .l-sk-art-slider {
   width: 100%;
   z-index: -1; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000348}}
-  .l-sk-slider img, .l-sk-slider media {
+  .l-sk-slider img, .l-sk-slider media, .l-sk-art-slider img, .l-sk-art-slider media {
     height: auto;
     max-width: 100%;
     width: 100%; }

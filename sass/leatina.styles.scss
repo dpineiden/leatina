@@ -28,7 +28,7 @@
 html{
     background-color: $naranjo;
     body{
-        color:$aguamarina;//color de texto
+        color:black;//color de texto
         a{
             text-decoration: none;
             color: $rojo-ladrillo-3;
@@ -42,7 +42,7 @@ html{
     margin-right: 15%;
 }
 
-.l-sk-slider{
+.l-sk-slider,.l-sk-art-slider{
     width:100%;
     z-index: -1;      
     img, media{
