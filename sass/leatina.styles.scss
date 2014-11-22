@@ -68,7 +68,10 @@ html{
     margin-top: 1.5rem;
     position: absolute;
     width: 40%;
-}
+    img{
+        width:100%;
+        height: auto;}
+    }
     #superfish-1 {
     margin-top: 1.5rem;
     float: right;
@@ -129,6 +132,10 @@ html{
     margin-top: 1.5rem;
     position: absolute;
     width: 40%;
+        img{
+        width:100%;
+        height: auto;
+    }
 }
     #superfish-1 {
     margin-top: 2rem;
