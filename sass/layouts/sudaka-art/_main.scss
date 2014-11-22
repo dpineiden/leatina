@@ -45,7 +45,7 @@
 
 
 //barra lateral derecha
-.l-sk-art-sidebar-right{
+.l-sk-art-sidebar-left{
  // @include grid-span(4,9); 
 @include breakpoint($celular_small){
     @include grid-span(12,1);
@@ -54,13 +54,13 @@
     @include grid-span(12,1);
 }
         @include breakpoint($tablet){
-  @include grid-span(3,10); 
+  @include grid-span(4,10); 
 }
         @include breakpoint($desk_normal){
-  @include grid-span(3,10); 
+  @include grid-span(4,10); 
 }
         @include breakpoint($desk_wide){
-  @include grid-span(3,10);  
+  @include grid-span(4,10);  
 }
 }
 .l-sk-art-sidebar-media{
@@ -69,9 +69,9 @@
 .l-sk-art-sub-lateral{
       @include grid-span(12,1);   
 }
-.l-sk-art-sidebar-right_1{
+.l-sk-art-sidebar-left_1{
     @include grid-span(6,1); 
 }
-.l-sk-art-sidebar-right_2{
+.l-sk-art-sidebar-left_2{
     @include grid-span(6,7); 
 }

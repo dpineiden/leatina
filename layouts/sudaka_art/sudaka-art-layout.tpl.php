@@ -39,6 +39,8 @@
       <?php print $breadcrumb; ?>  
     </div>
 <div class="l-sk-art--region-content" role"Region de Contenidos">
+  <div class="l-sk-art-sidebar-left" role="Lateral IZquierda">
+    <?php print render($page['sidebar_left']); ?></div>
 
   <div class="l-sk-art-content" role="main">        
       <a id="main-content"></a>
@@ -56,8 +58,7 @@
       <?php print render($page['content']); ?>
       <?php print $feed_icons; ?></div>
     
-  <div class="l-sk-art-sidebar-right" role="Lateral Derecha">
-    <?php print render($page['sidebar_right']); ?></div>
+
    
     </div>
 
