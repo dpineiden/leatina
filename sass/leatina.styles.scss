@@ -119,6 +119,10 @@ html{
 
 }
 
+#superfish-1 {
+.sf-sub-indicator {
+margin-top: 1rem;
+}}
 
 .l-sk-art-nav{
     background: none repeat scroll 0 0 rgba(255, 255, 255, 0.8);
@@ -129,7 +133,6 @@ html{
     height: 4rem;
     margin-left: 0;
     margin-right: 0;
-    position: absolute;
     width: 100%;
     border-bottom: 6px solid orange;
     .block--views-marca-block {
