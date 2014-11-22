@@ -62,9 +62,16 @@ html{
     position: absolute;
     top: 16rem;
     width: 100%;
+    .block--views-marca-block {
+    float: left;
+    margin-left: 50px;
+    margin-top: 0rem;
+    position: absolute;
+}
     #superfish-1 {
     margin-top: 2rem;
-    margin-left: 60%;
+    float: right;
+    margin-right: 50px;
     .sf-depth-1 {
     padding: 4px;
     font-weight: bold;
@@ -102,6 +109,67 @@ html{
 }
 
 }
+
+
+.l-sk-art-nav{
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.8);
+    clear: none;
+    float: right;
+    height: 6rem;
+    margin-left: 0;
+    margin-right: 0;
+    position: absolute;
+    top: 16rem;
+    width: 100%;
+    .block--views-marca-block {
+    float: left;
+    margin-left: 50px;
+    margin-top: 0rem;
+    position: absolute;
+}
+    #superfish-1 {
+    margin-top: 2rem;
+    float: right;
+    margin-left: 50%;
+    margin-right: 50px;
+    .sf-depth-1 {
+    padding: 4px;
+    font-weight: bold;
+    text-transform: uppercase;}
+    .first{
+        border-left:4px solid;
+        border-color:$aguamarina-3;
+    }
+    .middle{
+        padding-right: 4px;
+        border-left:4px solid;
+        border-color:$aguamarina-3;
+    }
+    .last{
+        border-left:4px solid;
+        border-color:$aguamarina-3;
+        border-right: 4px solid;
+        border-color:$aguamarina-3;
+    }
+    }
+    @include breakpoint($celular_small){
+    @include grid-span(12,1);
+}
+        @include breakpoint($celular){ 
+    @include grid-span(12,1);
+}
+        @include breakpoint($tablet){
+    @include grid-span(12,1);
+}
+        @include breakpoint($desk_normal){
+    @include grid-span(12,1);
+}
+        @include breakpoint($desk_wide){
+    @include grid-span(12,1);
+}
+
+}
+
 .l-sk-art-header,.l-sk-art-slider,.l-sk-art-nav,.l-sk-art-region--destacado,.l-sk-art-region--breadcrumb,.l-sk-art--region-footer{
     width:70%;
     margin: 0 auto;
