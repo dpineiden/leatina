@@ -3432,7 +3432,7 @@ html {
     position: absolute; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000371}}
   .l-sk-nav #superfish-1 {
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     float: right;
     margin-right: 50px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000375}}
@@ -3511,7 +3511,7 @@ html {
   .l-sk-art-nav .block--views-marca-block {
     float: left;
     margin-left: 50px;
-    margin-top: 0rem;
+    margin-top: 1.5rem;
     position: absolute; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003130}}
   .l-sk-art-nav #superfish-1 {
