@@ -229,11 +229,22 @@ padding-bottom: 10px;}
 }
 
 //En articulos
+//Tipo
+.field--name-field-tipo-de-articulo {
+font-size: xx-large;
+font-family: 'PT Sans', sans-serif;
+}
 //Imagenes
 .field--name-field-image{
     text-align: center;
     .field__item {
-    float: none;}
+    float: none;
+img, media {
+max-width: 100%;
+width: 80%;
+height: auto;
+    }
+}
 }
 
 //Taggs
@@ -241,7 +252,7 @@ padding-bottom: 10px;}
 padding-top: 5px;
 padding-bottom: 5px;
 margin-bottom: 10px;
-.field--label-inline .field__items {
+.field__items {
 float: left;
 display: inline-flex;
 .field__item{
