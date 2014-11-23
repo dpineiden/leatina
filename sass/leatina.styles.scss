@@ -248,7 +248,7 @@ height: auto;}
     display:block;
 }
 
-
+/////Organizan
 .logo-organizacion{
     float: left;
     width: 90px;
@@ -269,6 +269,15 @@ height: auto;}
 .logo-organizacion:hover .name-org{
     display:block;
 }
+//Organizan-page
+.teaser-org {
+width: 100%;
+float: left;
+height: initial;
+margin:20px;
+.logo-organizacion-page{float:left;}
+}
+
 //En articulos
 //Tipo
 .field--name-field-tipo-de-articulo {
