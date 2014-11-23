@@ -3387,7 +3387,7 @@ img, media {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000328}}
 html {
-  background-color: #d18343; }
+  background-color: #e9843c; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000330}}
   html body {
     color: black; }
@@ -3417,10 +3417,10 @@ html {
 .l-sk--region-content, .l-sk-art--region-content {
   position: relative;
   top: 5rem;
-  width: 70%;
+  width: 80%;
   margin: 0 auto;
-  margin-left: 15%;
-  margin-right: 15%; }
+  margin-left: 10%;
+  margin-right: 10%; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000363}}
 .l-sk-region--breadcrumb, .l-sk-art-region--breadcrumb {
