@@ -3171,101 +3171,94 @@ html {
   font-size: 10px; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003211}}
-.sudaka-footer, .sudaka-art-footer {
-  background-position: center bottom;
-  background-repeat: no-repeat;
-  background-size: 100% 160px;
-  height: 150px; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003219}}
 .leatina-teaser {
   float: left;
   width: 200px;
   margin: 10px;
   position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003225}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003217}}
   .leatina-teaser .leatina-teaser-imagen {
     width: 100%;
     height: auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003228}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003220}}
   .leatina-teaser .teaser-text {
     position: absolute;
     display: none;
     bottom: 0;
     background: rgba(0, 0, 0, 0.6);
     color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003234}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003226}}
     .leatina-teaser .teaser-text .teaser-date {
       font-size: 9px;
       color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003239}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003231}}
     .leatina-teaser .teaser-text .teaser-title a {
       text-decoration: none;
       color: white; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003247}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003239}}
 .leatina-teaser:hover .teaser-text {
   display: block; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003252}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003244}}
 .logo-organizacion {
   float: left;
   width: 90px;
   margin: 6px;
   position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003257}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003249}}
   .logo-organizacion .name-org {
     position: absolute;
     display: none;
     bottom: 0;
     background: rgba(0, 0, 0, 0.6);
     color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003263}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003255}}
     .logo-organizacion .name-org a {
       text-decoration: none;
       color: white; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003269}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003261}}
 .logo-organizacion:hover .name-org {
   display: block; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003273}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003265}}
 .teaser-org-page {
   width: 100%;
   float: left;
   height: initial;
   margin: 20px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003278}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003270}}
   .teaser-org-page .logo-organizacion-page {
     float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003283}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003275}}
 .field--name-field-tipo-de-articulo {
   font-size: xx-large;
   font-family: 'PT Sans', sans-serif; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003288}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003280}}
 .field--name-field-image {
   text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003290}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003282}}
   .field--name-field-image .field__item {
     float: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003292}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003284}}
     .field--name-field-image .field__item img, .field--name-field-image .field__item media {
       max-width: 100%;
       width: 80%;
       height: auto; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003301}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003293}}
 .field--name-field-tags {
   padding-top: 5px;
   padding-bottom: 5px;
   margin-bottom: 10px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003305}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003297}}
   .field--name-field-tags .field__items {
     float: left;
     display: inline-flex; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003308}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003300}}
     .field--name-field-tags .field__items .field__item {
       background: #E2CCB7;
       border-radius: 4px;
@@ -3273,7 +3266,26 @@ html {
       padding-right: 5px;
       margin-left: 4px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003318}}
-.logo-footer.border-fade {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003310}}
+.view-pie-de-pagina {
+  margin: 0 30%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003313}}
+.logo-footer {
   float: left;
-  display: inline-block; }
+  padding-right: 4px;
+  padding-left: 4px;
+  margin: 2px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003320}}
+.sudaka-footer, .sudaka-art-footer {
+  width: 100%;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
+  position: relative;
+  top: 7rem;
+  border-top: 5px solid grey;
+  background: grey;
+  height: 200px; }
