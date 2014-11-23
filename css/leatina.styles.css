@@ -3721,3 +3721,8 @@ html {
       padding-left: 5px;
       padding-right: 5px;
       margin-left: 4px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003318}}
+.logo-footer.border-fade {
+  float: left;
+  display: inline-block; }
