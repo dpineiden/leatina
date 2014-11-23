@@ -346,3 +346,38 @@ width: 60%;
 float: right;
 }
 }}
+
+//Pagina organizacones
+.page-org {
+.logo-leatina-page {
+position: fixed;
+float: left;
+width: 30%;
+z-index: 2;
+img{
+width: 100%;
+height: auto;
+}
+.view-content {
+float: right;
+width: 60%;
+}}
+.name-org-text{
+.logo-organizacion-page {
+float: left;
+width: 20%;
+margin-right: 4px;
+padding-right: 2px;
+img{
+    width:100%;
+    height: auto;
+}
+}    
+.name-org-cuerpo {
+text-align: justify;
+font-size: 1.2rem;
+margin-left: 4px;
+padding: -1px;
+width: 74%;
+}}
+}
