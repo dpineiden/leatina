@@ -3018,7 +3018,7 @@ img, media {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000328}}
 html {
-  background-color: #d98841; }
+  background-color: #d18343; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000330}}
   html body {
     color: black; }
@@ -3288,3 +3288,19 @@ html {
   top: 7rem;
   border-top: 5px solid grey;
   background: grey; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003334}}
+.nosotros-feria .l-sk-art-content {
+  width: 100%;
+  background: url("../images/feria.jpg");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  float: right;
+  margin-left: 0;
+  margin-right: 0;
+  clear: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003343}}
+  .nosotros-feria .l-sk-art-content article {
+    display: block;
+    width: 60%;
+    float: right; }
