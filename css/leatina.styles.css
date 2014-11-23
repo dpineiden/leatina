@@ -3771,17 +3771,19 @@ html {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003366}}
   .page-org .view-content .teaser-org-page .logo-organizacion-page {
     float: left;
-    width: 20%;
+    width: 40%;
     margin-right: 4px;
     padding-right: 2px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003371}}
     .page-org .view-content .teaser-org-page .logo-organizacion-page img {
       width: 100%;
       height: auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003377}}
-  .page-org .view-content .teaser-org-page .name-org-text .name-org-cuerpo {
-    text-align: justify;
-    font-size: 1.2rem;
-    margin-left: 4px;
-    padding: -1px;
-    width: 74%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003376}}
+  .page-org .view-content .teaser-org-page .name-org-text {
+    width: 60%;
+    display: table-row; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003380}}
+    .page-org .view-content .teaser-org-page .name-org-text .name-org-cuerpo {
+      text-align: justify;
+      font-size: 1.2rem;
+      margin-left: 4px; }

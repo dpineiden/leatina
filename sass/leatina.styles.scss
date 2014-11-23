@@ -365,7 +365,7 @@ width: 60%;
 .teaser-org-page{
 .logo-organizacion-page {
 float: left;
-width: 20%;
+width: 40%;
 margin-right: 4px;
 padding-right: 2px;
 img{
@@ -373,13 +373,14 @@ img{
     height: auto;
 }
 }
-.name-org-text{    
+.name-org-text{   
+width: 60%;
+display: table-row;
+
 .name-org-cuerpo {
 text-align: justify;
 font-size: 1.2rem;
 margin-left: 4px;
-padding: -1px;
-width: 74%;
 }}
 
 }}
