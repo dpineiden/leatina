@@ -248,6 +248,27 @@ height: auto;}
     display:block;
 }
 
+
+.logo-organizacion{
+    float: left;
+    width: 90px;
+    margin: 6px;
+    position: relative;
+.name-org{
+    position: absolute;
+    display:none;
+    bottom: 0;
+    background: rgba(0,0,0,.6);
+    color:white;
+        a{
+            text-decoration: none;
+            color: white;
+        }
+}
+}
+.logo-organizacion:hover .name-org{
+    display:block;
+}
 //En articulos
 //Tipo
 .field--name-field-tipo-de-articulo {
