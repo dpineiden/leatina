@@ -54,7 +54,17 @@ html{
 .l-sk--region-content,.l-sk-art--region-content{    
     position: relative;
     top: 5rem;
+    width:70%;
+    margin: 0 auto;
+    margin-left: 15%;
+    margin-right: 15%;
 }
+
+.l-sk-region--breadcrumb,.l-sk-art-region--breadcrumb {
+    display: none;
+    position: relative;
+}
+
 //Ajuste caja menu principal
 .l-sk-nav{
     background: none repeat scroll 0 0 rgba(255, 255, 255, 0.8);
@@ -199,7 +209,6 @@ font-size: 10px;
 }
 
 .sudaka-footer,.sudaka-art-footer{
-    background-image: url("../images/footer.svg");
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: 100% 160px;

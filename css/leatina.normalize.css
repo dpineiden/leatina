@@ -242,7 +242,3 @@ th {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   *behavior: url('../behaviors/box-sizing/boxsizing.php'); }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.normalize\.scss}line{font-family:\0000310}}
-l-sk-header, l-sk-slider, l-sk-nav, l-sk-region--destacado, l-sk-region--breadcrumb {
-  width: 80%; }
