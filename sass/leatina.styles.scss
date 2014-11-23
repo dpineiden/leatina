@@ -358,11 +358,11 @@ img{
 width: 100%;
 height: auto;
 }
+}
 .view-content {
 float: right;
 width: 60%;
-}}
-.name-org-text{
+.teaser-org-page{
 .logo-organizacion-page {
 float: left;
 width: 20%;
@@ -372,12 +372,15 @@ img{
     width:100%;
     height: auto;
 }
-}    
+}
+.name-org-text{    
 .name-org-cuerpo {
 text-align: justify;
 font-size: 1.2rem;
 margin-left: 4px;
 padding: -1px;
 width: 74%;
+}}
+
 }}
 }

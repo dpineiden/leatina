@@ -3315,24 +3315,24 @@ html {
   .page-org .logo-leatina-page img {
     width: 100%;
     height: auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003361}}
-  .page-org .logo-leatina-page .view-content {
-    float: right;
-    width: 60%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003362}}
+.page-org .view-content {
+  float: right;
+  width: 60%; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003366}}
-.page-org .name-org-text .logo-organizacion-page {
-  float: left;
-  width: 20%;
-  margin-right: 4px;
-  padding-right: 2px; }
+  .page-org .view-content .teaser-org-page .logo-organizacion-page {
+    float: left;
+    width: 20%;
+    margin-right: 4px;
+    padding-right: 2px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003371}}
-  .page-org .name-org-text .logo-organizacion-page img {
-    width: 100%;
-    height: auto; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003376}}
-.page-org .name-org-text .name-org-cuerpo {
-  text-align: justify;
-  font-size: 1.2rem;
-  margin-left: 4px;
-  padding: -1px;
-  width: 74%; }
+    .page-org .view-content .teaser-org-page .logo-organizacion-page img {
+      width: 100%;
+      height: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003377}}
+  .page-org .view-content .teaser-org-page .name-org-text .name-org-cuerpo {
+    text-align: justify;
+    font-size: 1.2rem;
+    margin-left: 4px;
+    padding: -1px;
+    width: 74%; }
