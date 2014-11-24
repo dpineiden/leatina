@@ -3341,9 +3341,7 @@ html {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003389}}
 .section-contact {
-  display: block;
-  width: 50%;
-  float: right; }
+  display: block; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003390}}
   .section-contact .l-sk-art-content {
     background: url("../images/contacto.jpg");
