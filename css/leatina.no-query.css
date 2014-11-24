@@ -3284,7 +3284,7 @@ html {
         display: none;
         bottom: 0;
         font-size: 0.8rem;
-        background: none repeat scroll 0 0/100% auto rgba(0, 0, 0, 0.6);
+        background: rgba(0, 0, 0, 0.6);
         color: white;
         width: 100%; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003350}}
