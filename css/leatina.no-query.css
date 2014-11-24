@@ -3338,3 +3338,21 @@ html {
       text-align: justify;
       font-size: 1.2rem;
       margin-left: 4px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003389}}
+.section-contact {
+  display: block;
+  width: 50%;
+  float: right; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003390}}
+  .section-contact .l-sk-art-content {
+    background: url("../images/contacto.jpg");
+    background-size: 100% 500px;
+    background-repeat: no-repeat; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003395}}
+  .section-contact .contact-site-form {
+    margin-left: 20%;
+    margin-right: 40%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003398}}
+    .section-contact .contact-site-form input {
+      width: 100%; }
