@@ -3259,27 +3259,27 @@ html {
     float: right; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003325}}
-.block-views-organizan-block .logo-organizacion {
+#block-views-organizan-block .logo-organizacion {
   float: left;
   margin: 4px;
   position: relative;
   width: 45%; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003330}}
-  .block-views-organizan-block .logo-organizacion img {
+  #block-views-organizan-block .logo-organizacion img {
     width: 100%;
     height: auto; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003334}}
-  .block-views-organizan-block .logo-organizacion .view-content {
+  #block-views-organizan-block .logo-organizacion .view-content {
     float: right;
     width: 100%; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003337}}
-    .block-views-organizan-block .logo-organizacion .view-content .field-content {
+    #block-views-organizan-block .logo-organizacion .view-content .field-content {
       display: table; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003339}}
-      .block-views-organizan-block .logo-organizacion .view-content .field-content .logo-organizacion {
+      #block-views-organizan-block .logo-organizacion .view-content .field-content .logo-organizacion {
         vertical-align: middle; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003342}}
-      .block-views-organizan-block .logo-organizacion .view-content .field-content .name-org {
+      #block-views-organizan-block .logo-organizacion .view-content .field-content .name-org {
         position: absolute;
         display: none;
         bottom: 0;
@@ -3288,11 +3288,11 @@ html {
         color: white;
         width: 100%; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003350}}
-        .block-views-organizan-block .logo-organizacion .view-content .field-content .name-org a {
+        #block-views-organizan-block .logo-organizacion .view-content .field-content .name-org a {
           text-decoration: none;
           color: white; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003355}}
-      .block-views-organizan-block .logo-organizacion .view-content .field-content .logo-organizacion:hover .name-org {
+      #block-views-organizan-block .logo-organizacion .view-content .field-content .logo-organizacion:hover .name-org {
         display: block; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003365}}
