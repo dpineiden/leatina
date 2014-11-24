@@ -165,19 +165,19 @@ margin-top: 1rem;
     font-weight: bold;
     text-transform: uppercase;}
     .first{
-        border-left:4px solid;
-        border-color:$aguamarina-3;
+        //border-left:4px solid;
+        //border-color:$aguamarina-3;
     }
     .middle{
-        padding-right: 4px;
-        border-left:4px solid;
-        border-color:$aguamarina-3;
+        //padding-right: 4px;
+        //border-left:4px solid;
+        //border-color:$aguamarina-3;
     }
     .last{
-        border-left:4px solid;
-        border-color:$aguamarina-3;
-        border-right: 4px solid;
-        border-color:$aguamarina-3;
+        //border-left:4px solid;
+        //border-color:$aguamarina-3;
+        //border-right: 4px solid;
+        //border-color:$aguamarina-3;
     }
     }
     @include breakpoint($celular_small){
@@ -240,35 +240,7 @@ height: auto;}
     display:block;
 }
 
-/////Organizan
-.logo-organizacion{
-    float: left;
-    width: 90px;
-    margin: 6px;
-    position: relative;
-.name-org{
-    position: absolute;
-    display:none;
-    bottom: 0;
-    background: rgba(0,0,0,.6);
-    color:white;
-        a{
-            text-decoration: none;
-            color: white;
-        }
-}
-}
-.logo-organizacion:hover .name-org{
-    display:block;
-}
-//Organizan-page
-.teaser-org-page {
-width: 100%;
-float: left;
-height: initial;
-margin:20px;
-.logo-organizacion-page{float:left;}
-}
+
 
 //En articulos
 //Tipo
@@ -346,8 +318,49 @@ width: 60%;
 float: right;
 }
 }}
+//Bloque organizan:
 
+/////Organizan
+.block-views-organizan-block{
+.logo-organizacion{
+    float: left;
+    margin: 4px;
+    position: relative;
+    width: 45%;
+    img{
+        width: 100%;
+        height: auto;
+    }
+    .view-content {
+    float: right;
+    width: 100%;
+    .field-content {
+    display: table;
+    .logo-organizacion{
+        vertical-align: middle;
+    }
+    
+   
+.name-org{
+    position: absolute;
+    display:none;
+    bottom: 0;
+    font-size: 0.8rem;
+    background: none repeat scroll 0 0 / 100% auto rgba(0, 0, 0, 0.6);
+    color:white;
+    width: 100%;
+        a{
+            text-decoration: none;
+            color: white;
+        }
+}
+}}
+.logo-organizacion:hover .name-org{
+    display:block;
+} }
+}
 //Pagina organizacones
+//Organizan-page
 .page-org {
 .logo-leatina-page {
 position: fixed;
