@@ -3278,22 +3278,22 @@ html {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003339}}
       .block-views-organizan-block .logo-organizacion .view-content .field-content .logo-organizacion {
         vertical-align: middle; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003344}}
-    .block-views-organizan-block .logo-organizacion .view-content .name-org {
-      position: absolute;
-      display: none;
-      bottom: 0;
-      font-size: 0.8rem;
-      background: none repeat scroll 0 0/100% auto rgba(0, 0, 0, 0.6);
-      color: white;
-      width: 100%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003352}}
-      .block-views-organizan-block .logo-organizacion .view-content .name-org a {
-        text-decoration: none;
-        color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003358}}
-.block-views-organizan-block .logo-organizacion:hover .name-org {
-  display: block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003342}}
+      .block-views-organizan-block .logo-organizacion .view-content .field-content .name-org {
+        position: absolute;
+        display: none;
+        bottom: 0;
+        font-size: 0.8rem;
+        background: none repeat scroll 0 0/100% auto rgba(0, 0, 0, 0.6);
+        color: white;
+        width: 100%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003350}}
+        .block-views-organizan-block .logo-organizacion .view-content .field-content .name-org a {
+          text-decoration: none;
+          color: white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003355}}
+      .block-views-organizan-block .logo-organizacion .view-content .field-content .logo-organizacion:hover .name-org {
+        display: block; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003365}}
 .page-org .logo-leatina-page {
