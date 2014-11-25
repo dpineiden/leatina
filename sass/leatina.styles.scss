@@ -374,15 +374,16 @@ height: auto;
 float: right;
 width: 60%;
 .teaser-org-page{
-     display: table-caption;
-     margin:10%;
+margin-top: 20px;
+margin-bottom: 20px;
+min-height: 300px;
+max-height: 400px;
+
 .logo-organizacion-page {
-    border: 3px solid #a9511e;
-    border-radius: 18px;
-    float: left;
-    margin-right: 10px;
-    padding: 4px;
-    width: 35%;
+float: left;
+width: 35%;
+text-align: center;
+position: relative;
 img{
     width:100%;
     height: auto;
@@ -390,7 +391,7 @@ img{
 }
 .name-org-text{   
 width: 60%;
-display: table-row;
+float: right;
 
 .name-org-cuerpo {
 text-align: justify;
