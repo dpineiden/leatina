@@ -3753,37 +3753,44 @@ html {
 .page-org .view-content {
   float: right;
   width: 60%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003377}}
-  .page-org .view-content .teaser-org-page .logo-organizacion-page {
-    float: left;
-    margin-right: 4px;
-    padding-right: 2px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003381}}
-    .page-org .view-content .teaser-org-page .logo-organizacion-page img {
-      width: 100%;
-      height: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003376}}
+  .page-org .view-content .teaser-org-page {
+    display: table-caption;
+    margin: 10%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003379}}
+    .page-org .view-content .teaser-org-page .logo-organizacion-page {
+      border: 3px solid #a9511e;
+      border-radius: 18px;
+      float: left;
+      margin-right: 10px;
+      padding: 4px;
+      width: 35%; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003386}}
-  .page-org .view-content .teaser-org-page .name-org-text {
-    width: 60%;
-    display: table-row; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003390}}
-    .page-org .view-content .teaser-org-page .name-org-text .name-org-cuerpo {
-      text-align: justify;
-      font-size: 1.2rem;
-      margin-left: 4px; }
+      .page-org .view-content .teaser-org-page .logo-organizacion-page img {
+        width: 100%;
+        height: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003391}}
+    .page-org .view-content .teaser-org-page .name-org-text {
+      width: 60%;
+      display: table-row; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003395}}
+      .page-org .view-content .teaser-org-page .name-org-text .name-org-cuerpo {
+        text-align: justify;
+        font-size: 1.2rem;
+        margin-left: 4px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003401}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003406}}
 .section-contact {
   display: block; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003402}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003407}}
   .section-contact .l-sk-art-content {
     background: url("../images/contacto.jpg");
     background-size: 100% 500px;
     background-repeat: no-repeat; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003407}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003412}}
   .section-contact .contact-site-form {
     margin-left: 20%;
     margin-right: 40%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003410}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003415}}
     .section-contact .contact-site-form input {
       width: 100%; }

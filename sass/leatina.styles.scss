@@ -374,10 +374,15 @@ height: auto;
 float: right;
 width: 60%;
 .teaser-org-page{
+     display: table-caption;
+     margin:10%;
 .logo-organizacion-page {
-float: left;
-margin-right: 4px;
-padding-right: 2px;
+    border: 3px solid #a9511e;
+    border-radius: 18px;
+    float: left;
+    margin-right: 10px;
+    padding: 4px;
+    width: 35%;
 img{
     width:100%;
     height: auto;
