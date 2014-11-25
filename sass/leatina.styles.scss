@@ -113,13 +113,26 @@ html{
     }
     }
     @include breakpoint($celular_small){
-    @include grid-span(12,1);
-}
+    @include grid-span(6,7);
+float: right;
+margin-right: 10%;
+position: relative;
+top: 35px;}
         @include breakpoint($celular){ 
-    @include grid-span(12,1);
+    @include grid-span(6,7);
+float: right;
+margin-right: 10%;
+position: relative;
+top: 35px;
+
 }
         @include breakpoint($tablet){
-    @include grid-span(12,1);
+    @include grid-span(6,7);
+float: right;
+margin-right: 10%;
+position: relative;
+top: 0px;
+font-size: 14px;
 }
         @include breakpoint($desk_normal){
     @include grid-span(12,1);
@@ -129,7 +142,12 @@ html{
 }
 
 }
-
+.sf-menu a.sf-with-ul, .sf-menu {
+min-width: 1px;
+margin-top: 2px;
+margin-bottom: 2px;
+background: orange;
+}
 #superfish-1 {
 .sf-sub-indicator {
 margin-top: 1rem;
@@ -184,13 +202,26 @@ margin-top: 1rem;
     }
     }
     @include breakpoint($celular_small){
-    @include grid-span(12,1);
-}
+    @include grid-span(6,7);
+float: right;
+margin-right: 10%;
+position: relative;
+top: 35px;}
         @include breakpoint($celular){ 
-    @include grid-span(12,1);
+    @include grid-span(6,7);
+float: right;
+margin-right: 10%;
+position: relative;
+top: 35px;
+
 }
         @include breakpoint($tablet){
-    @include grid-span(12,1);
+    @include grid-span(6,7);
+float: right;
+margin-right: 10%;
+position: relative;
+top: 0px;
+font-size: 14px;
 }
         @include breakpoint($desk_normal){
     @include grid-span(12,1);
