@@ -4,6 +4,7 @@
 @import url("http://fonts.googleapis.com/css?family=Gentium+Book+Basic");
 @import url("http://fonts.googleapis.com/css?family=Sansita+One");
 @import url("http://fonts.googleapis.com/css?family=PT+Sans:700italic");
+@import url("http://fonts.googleapis.com/css?family=Raleway:400,600");
 /* As RGBa codes */
 /* Main Primary color */
 /* Main Secondary color (1) */
@@ -3453,7 +3454,8 @@ html {
   .l-sk-nav #superfish-1 {
     margin-top: 1.5rem;
     float: right;
-    margin-right: 5%; }
+    margin-right: 5%;
+    font-family: 'Raleway', sans-serif; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000394}}
     .l-sk-nav #superfish-1 .sf-depth-1 {
       padding: 4px;
