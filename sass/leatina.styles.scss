@@ -97,19 +97,19 @@ html{
     font-weight: bold;
     text-transform: uppercase;}
     .first{
-        border-left:4px solid;
-        border-color:$aguamarina-3;
+       // border-left:4px solid;
+       // border-color:$aguamarina-3;
     }
     .middle{
-        padding-right: 4px;
-        border-left:4px solid;
-        border-color:$aguamarina-3;
+       // padding-right: 4px;
+       // border-left:4px solid;
+       // border-color:$aguamarina-3;
     }
     .last{
-        border-left:4px solid;
-        border-color:$aguamarina-3;
-        border-right: 4px solid;
-        border-color:$aguamarina-3;
+       // border-left:4px solid;
+        //border-color:$aguamarina-3;
+        //border-right: 4px solid;
+        //border-color:$aguamarina-3;
     }
     }
     @include breakpoint($celular_small){
@@ -161,7 +161,9 @@ margin-top: 1rem;
     margin-top: 1rem;
     float: right;
     margin-right: 5%;
+        font-family: 'Raleway:600',serif;
     .sf-depth-1 {
+            font-family: 'Raleway:600',serif;
     padding: 4px;
     font-weight: bold;
     text-transform: uppercase;}
