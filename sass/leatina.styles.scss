@@ -321,43 +321,42 @@ float: right;
 //Bloque organizan:
 
 /////Organizan
-#block-views-organizan-block{
-.view-content {
-float: right;
-width: 100%;
-.field-content {
-display: table;    
-.logo-organizacion{
-    float: left;
-    margin: 4px;
-    position: relative;
-    width: 45%;
-    vertical-align: middle;
-    img{
+
+.block--views-organizan-block{
+    .view-content {
+        float: right;
         width: 100%;
-        height: auto;
-    }
-.name-org{
-    position: absolute;
-    display:none;
-    bottom: 0;
-    font-size: 0.8rem;
-    background: rgba(0, 0, 0, 0.6);
-    color:white;
-    width: 100%;
-        a{
-            text-decoration: none;
-            color: white;
-        }
-    }
-.logo-organizacion:hover .name-org{
-    display:block;
+        .field-content {
+        .logo-organizacion{
+            float: left;
+            margin: 4px;
+            position: relative;
+            width: 45%;
+            vertical-align: middle;
+            img{
+             width: 100%;
+             height: auto;
+            }
+            .name-org{
+                position: absolute;
+                display:none;
+                bottom: 0;
+                font-size: 0.8rem;
+                background: rgba(0, 0, 0, 0.6);
+                color:white;
+                width: 100%;
+                a{
+                    text-decoration: none;
+                    color: white;
                 }
-}
-        
-    }
-}
-}
+            }            
+            }//cierre logo-organizacion 
+            .logo-organizacion:hover .name-org{
+                display:block;
+            }
+        }//cierre field-content
+    }//cierre view-content
+}//cierre bloque
 //Pagina organizacones
 //Organizan-page
 .page-org {
