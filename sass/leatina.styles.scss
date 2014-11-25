@@ -111,27 +111,23 @@ html{
         //border-right: 4px solid;
         //border-color:$aguamarina-3;
     }
-    }
+    
     @include breakpoint($celular_small){
-    @include grid-span(6,7);
 float: right;
 margin-right: 10%;
 position: relative;
 top: 35px;
 }
         @include breakpoint($celular){ 
-    @include grid-span(6,7);
 float: right;
 margin-right: 10%;
 position: relative;
 top: 35px;
 }
         @include breakpoint($tablet){
-    @include grid-span(6,7);
 float: right;
 margin-right: 10%;
 position: relative;
-top: 0px;
 font-size: 14px;
 }
         @include breakpoint($desk_normal){
@@ -139,7 +135,7 @@ font-size: 14px;
 }
         @include breakpoint($desk_wide){
     @include grid-span(12,1);
-}
+}}
 
 }
 
@@ -195,27 +191,23 @@ margin-top: 1rem;
         //border-right: 4px solid;
         //border-color:$aguamarina-3;
     }
-    }
-    @include breakpoint($celular_small){
-    @include grid-span(6,7);
+    
+@include breakpoint($celular_small){
 float: right;
 margin-right: 10%;
 position: relative;
 top: 35px;
 }
         @include breakpoint($celular){ 
-    @include grid-span(6,7);
 float: right;
 margin-right: 10%;
 position: relative;
 top: 35px;
 }
         @include breakpoint($tablet){
-    @include grid-span(6,7);
 float: right;
 margin-right: 10%;
 position: relative;
-top: 0px;
 font-size: 14px;
 }
         @include breakpoint($desk_normal){
@@ -223,7 +215,8 @@ font-size: 14px;
 }
         @include breakpoint($desk_wide){
     @include grid-span(12,1);
-}
+}}
+
 
 }
 
@@ -436,7 +429,7 @@ margin-left: 4px;
 .section-contact {
 .l-sk-art-content {
 background: url('../images/contacto.jpg');
-background-size: 100% 500px;
+background-size: 100% auto;
 background-repeat: no-repeat;
 }
 .contact-site-form{
