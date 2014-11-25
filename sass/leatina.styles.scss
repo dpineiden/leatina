@@ -312,6 +312,7 @@ float: right;
             margin: 4px;
             position: relative;
             width: 45%;
+            height: 100px;
             vertical-align: middle;
             img{
              width: 100%;
@@ -398,4 +399,28 @@ input{
 }
 }
 display: block;
+}
+
+//lista de actividades
+.block-lista-actividades {
+.item-actividad {
+    background: none repeat scroll 0 0 #dac974;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    width: 85%;
+    .thumb-activivad {
+    img{
+        width: 100%;
+        height: auto;
+    }
+    }
+.info-actividad {
+.fecha {
+    font-size: 0.6rem;
+}
+.lugar {
+    font-size: 0.8rem;
+}
+}
+    }
 }
