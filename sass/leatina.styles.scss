@@ -118,12 +118,6 @@ float: right;
 margin-right: 10%;
 position: relative;
 top: 35px;
-.sf-menu a.sf-with-ul, .sf-menu {
-min-width: 1px;
-margin-top: 2px;
-margin-bottom: 2px;
-background: orange;
-}
 }
         @include breakpoint($celular){ 
     @include grid-span(6,7);
@@ -131,12 +125,6 @@ float: right;
 margin-right: 10%;
 position: relative;
 top: 35px;
-.sf-menu a.sf-with-ul, .sf-menu {
-min-width: 1px;
-margin-top: 2px;
-margin-bottom: 2px;
-background: orange;
-}
 }
         @include breakpoint($tablet){
     @include grid-span(6,7);
@@ -214,24 +202,13 @@ float: right;
 margin-right: 10%;
 position: relative;
 top: 35px;
-.sf-menu a.sf-with-ul, .sf-menu {
-min-width: 1px;
-margin-top: 2px;
-margin-bottom: 2px;
-background: orange;
-}}
+}
         @include breakpoint($celular){ 
     @include grid-span(6,7);
 float: right;
 margin-right: 10%;
 position: relative;
 top: 35px;
-.sf-menu a.sf-with-ul, .sf-menu {
-min-width: 1px;
-margin-top: 2px;
-margin-bottom: 2px;
-background: orange;
-}
 }
         @include breakpoint($tablet){
     @include grid-span(6,7);
