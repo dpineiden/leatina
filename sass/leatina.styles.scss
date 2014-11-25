@@ -114,31 +114,7 @@ html{
         //border-right: 4px solid;
         //border-color:$aguamarina-3;
     }
-    
-    @include breakpoint($celular_small){
-float: right;
-margin-right: 10%;
-position: relative;
-top: 35px;
-}
-        @include breakpoint($celular){ 
-float: right;
-margin-right: 10%;
-position: relative;
-top: 35px;
-}
-        @include breakpoint($tablet){
-float: right;
-margin-right: 10%;
-position: relative;
-font-size: 14px;
-}
-        @include breakpoint($desk_normal){
-
-}
-        @include breakpoint($desk_wide){
-
-}}
+    }
 
 }
 
@@ -196,32 +172,8 @@ margin-top: 1rem;
         //border-color:$aguamarina-3;
         //border-right: 4px solid;
         //border-color:$aguamarina-3;
-    }
-    
-@include breakpoint($celular_small){
-float: right;
-margin-right: 10%;
-position: relative;
-top: 35px;
+    }    
 }
-        @include breakpoint($celular){ 
-float: right;
-margin-right: 10%;
-position: relative;
-top: 35px;
-}
-        @include breakpoint($tablet){
-float: right;
-margin-right: 10%;
-position: relative;
-font-size: 14px;
-}
-        @include breakpoint($desk_normal){
-
-}
-        @include breakpoint($desk_wide){
-
-}}
 
 
 }
