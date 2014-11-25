@@ -87,8 +87,11 @@ html{
         height: auto;}
     }
     #superfish-1 {
-    margin-top: 1.5rem;
+    clear: none;
     float: right;
+    font-size: 1rem;
+    margin-top: 0;
+    width: 40%;
     margin-right: 5%;
     font-family: 'Raleway:600',serif;
     .sf-depth-1 {
@@ -167,10 +170,13 @@ margin-top: 1rem;
     }
 }
     #superfish-1 {
-    margin-top: 1rem;
+    clear: none;
     float: right;
+    font-size: 1rem;
+    margin-top: 0;
+    width: 40%;
     margin-right: 5%;
-        font-family: 'Raleway:600',serif;
+    font-family: 'Raleway:600',serif;
     .sf-depth-1 {
             font-family: 'Raleway:600',serif;
     padding: 4px;
