@@ -3486,22 +3486,6 @@ html {
         margin-right: 10%;
         position: relative;
         font-size: 14px; } }
-    @media (min-width: 900px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000389}}
-      .l-sk-nav #superfish-1 {
-        width: 100%;
-        float: right;
-        margin-left: 0;
-        margin-right: 0;
-        clear: none; } }
-    @media (min-width: 1300px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\0000389}}
-      .l-sk-nav #superfish-1 {
-        width: 100%;
-        float: right;
-        margin-left: 0;
-        margin-right: 0;
-        clear: none; } }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003146}}
 #superfish-1 .sf-sub-indicator {
@@ -3566,22 +3550,6 @@ html {
         margin-right: 10%;
         position: relative;
         font-size: 14px; } }
-    @media (min-width: 900px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003172}}
-      .l-sk-art-nav #superfish-1 {
-        width: 100%;
-        float: right;
-        margin-left: 0;
-        margin-right: 0;
-        clear: none; } }
-    @media (min-width: 1300px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003172}}
-      .l-sk-art-nav #superfish-1 {
-        width: 100%;
-        float: right;
-        margin-left: 0;
-        margin-right: 0;
-        clear: none; } }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/public_html\/sites\/default\/themes\/leatina\/sass\/leatina\.styles\.scss}line{font-family:\00003229}}
 .l-sk-art-header, .l-sk-art-slider, .l-sk-art-region--destacado, .l-sk-art-region--breadcrumb, .l-sk-art--region-footer {

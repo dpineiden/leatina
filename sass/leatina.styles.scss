@@ -134,10 +134,10 @@ position: relative;
 font-size: 14px;
 }
         @include breakpoint($desk_normal){
-    @include grid-span(12,1);
+
 }
         @include breakpoint($desk_wide){
-    @include grid-span(12,1);
+
 }}
 
 }
@@ -217,10 +217,10 @@ position: relative;
 font-size: 14px;
 }
         @include breakpoint($desk_normal){
-    @include grid-span(12,1);
+
 }
         @include breakpoint($desk_wide){
-    @include grid-span(12,1);
+
 }}
 
 
