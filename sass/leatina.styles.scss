@@ -322,22 +322,20 @@ float: right;
 
 /////Organizan
 #block-views-organizan-block{
+.view-content {
+float: right;
+width: 100%;
+.field-content {
+display: table;    
 .logo-organizacion{
     float: left;
     margin: 4px;
     position: relative;
     width: 45%;
+    vertical-align: middle;
     img{
         width: 100%;
         height: auto;
-    }
-    .view-content {
-    float: right;
-    width: 100%;
-    .field-content {
-    display: table;
-    .logo-organizacion{
-        vertical-align: middle;
     }
 .name-org{
     position: absolute;
@@ -355,9 +353,10 @@ float: right;
 .logo-organizacion:hover .name-org{
     display:block;
                 }
-            }
-        }
+}
+        
     }
+}
 }
 //Pagina organizacones
 //Organizan-page
