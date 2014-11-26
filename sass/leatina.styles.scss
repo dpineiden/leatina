@@ -303,6 +303,10 @@ float: right;
 /////Organizan
 
 .block--views-organizan-block{
+    .block__title {
+    font-family: Times New Roman;
+    text-align: center;
+}
     .view-content {
         float: right;
         width: 100%;
@@ -312,7 +316,6 @@ float: right;
             margin: 4px;
             position: relative;
             width: 45%;
-            height: 100px;
             vertical-align: middle;
             img{
              width: 100%;
@@ -344,8 +347,9 @@ float: right;
 .logo-leatina-page {
 position: fixed;
 float: left;
-width: 30%;
+width: 20%;
 z-index: 2;
+top: 300px;
 img{
 width: 100%;
 height: auto;
@@ -353,7 +357,7 @@ height: auto;
 }
 .view-content {
 float: right;
-width: 60%;
+width: 70%;
 .teaser-org-page{
 margin-top: 20px;
 margin-bottom: 20px;
@@ -365,6 +369,7 @@ float: left;
 width: 35%;
 text-align: center;
 position: relative;
+margin:10px;
 img{
     width:100%;
     height: auto;
@@ -372,12 +377,14 @@ img{
 }
 .name-org-text{   
 width: 60%;
-float: right;
 
 .name-org-cuerpo {
 text-align: justify;
-font-size: 1.2rem;
+font-size: 0.9rem;
 margin-left: 4px;
+a{
+    float: right;
+}
 }}
 
 }}
@@ -424,3 +431,38 @@ display: block;
 }
     }
 }
+
+.captcha{
+    background: none repeat scroll 0 0 rgba(213, 180, 105, .7);
+        border: 1px solid #c0c0c0;
+    margin: 5% 10%;
+    padding: 0.35em 0.625em 0.75em;
+    width: 60%;
+    .fieldset-description {
+    display: none;
+    }
+}
+
+//en articulos:
+.node--article{
+    .field--name-field-image {
+text-align: center;
+float: left;
+margin: 5px;
+padding: 5px;
+border: solid;
+border-color: rgb(240, 159, 71);
+}
+}
+.front{
+#nuestros-textos {
+    font-family: times new roman;
+    text-align: center;
+}
+#leyenda-textos {
+    background: none repeat scroll 0 0 #fff281;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    padding: 4px;
+    text-align: justify;
+}}
