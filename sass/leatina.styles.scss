@@ -276,7 +276,7 @@ margin-left: 0;
 margin-right: 0;
 clear: none;
 position: relative;
-top: 7rem;
+top: 15rem;
 border-top: 5px solid grey;
 background: grey;
 }
@@ -376,7 +376,7 @@ img{
 }
 }
 .name-org-text{   
-width: 60%;
+width: 100%;
 
 .name-org-cuerpo {
 text-align: justify;
@@ -466,3 +466,16 @@ border-color: rgb(240, 159, 71);
     padding: 4px;
     text-align: justify;
 }}
+
+
+///footer bien abajo
+.l-sk--region-content, .l-sk-art--region-content {
+    min-height:100%;
+}
+
+.l-sk--region-content:after, .l-sk-art--region-content:after{
+display:block;
+clear:both;
+}
+
+.sudaka-footer, .sudaka-art-footer{}
